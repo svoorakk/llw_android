@@ -1,4 +1,4 @@
-package com.example.firstapplication
+package com.example.llw_challenge
 
 import org.junit.Test
 

@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.firstapplication"
+    namespace = "com.game.llw_challenge"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.firstapplication"
+        applicationId = "com.game.llw_challenge"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

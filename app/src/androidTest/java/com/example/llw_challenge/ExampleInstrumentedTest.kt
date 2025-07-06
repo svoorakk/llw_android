@@ -1,4 +1,4 @@
-package com.example.firstapplication
+package com.example.llw_challenge
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

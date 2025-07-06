@@ -1,4 +1,4 @@
-package com.example.firstapplication
+package com.game.llw_challenge
 
 import android.os.Bundle
 import android.webkit.WebView
