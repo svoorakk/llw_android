@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "FirstApplication"
+rootProject.name = "LLW Challenge Android"
 include(":app")
  

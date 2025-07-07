@@ -1,4 +1,7 @@
-package com.example.llw_challenge.ui.theme
+// © 2025 VSVAK Software. All rights reserved.
+// Locked Letter Words Challenge – Android Edition
+
+package com.game.llw_challenge.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

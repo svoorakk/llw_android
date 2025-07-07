@@ -1,4 +1,7 @@
-package com.example.llw_challenge
+// © 2025 VSVAK Software. All rights reserved.
+// Locked Letter Words Challenge – Android Edition
+
+package com.game.llw_challenge
 
 import org.junit.Test
 

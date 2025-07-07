@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
-
+    <!-- © 2025 VSVAK Software. All rights reserved. -->
+    <!-- Locked Letter Words Challenge – Android App -->
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
